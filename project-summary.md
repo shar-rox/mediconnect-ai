@@ -1,4 +1,4 @@
-## Mediconnect – Project Summary
+# Mediconnect – Project Summary
 
 Mediconnect is a functional AI-powered healthcare appointment management application built using Flutter and Firebase. The system integrates a conversational AI assistant (Gemini AI) to assist users with medical queries and guide them through appointment booking workflows.
 
