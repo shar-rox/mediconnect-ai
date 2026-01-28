@@ -476,8 +476,7 @@ $env:JAVA_HOME="C:\Program Files\Android\Android Studio\jbr"
 $env:GRADLE_USER_HOME="C:\gradle-home"
 $env:GRADLE_OPTS="-Xmx2G -XX:MaxMetaspaceSize=1G"
 
-# Run Flutter app with API configuration
-flutter run --dart-define=AI_PROVIDER=gemini --dart-define="GEMINI_API_KEY=AIzaSyCUydsqtJmCmGzrdxO1MuBRm171badY7q0"
+
 ```
 
 #### 7.2 API Key Retrieval in Code
