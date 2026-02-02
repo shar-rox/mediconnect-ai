@@ -695,7 +695,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Developer
 
-**Sai Nithish Adithya**
+**Sai Nithish Adithya** **& Sharanya**
 - Environment: Windows with PowerShell
 - Development Period: 2024-2025
 - Flutter Version: Latest Stable
